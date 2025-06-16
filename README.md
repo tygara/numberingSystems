@@ -16,4 +16,8 @@
 4. Convert resulting binary back to decimal ASCII
 5. Convert ASCII values to charcodes to reveal message
 
-### LINK TO FLOWCHART
+### [Flowchart](images/numberingSystem.jpg)
+
+### Hand-Written Work
+[Encryption](images/num1.jpg)
+[Decryption](images/num2.jpg)
